@@ -14,7 +14,7 @@ public class mycalculatorTest {
 		
 	}
 	public void testdiff() {
-		assertEquals(10,calc.sum(20, 10));
+		assertEquals(10,calc.diff(20, 10));
 		
 	}
 
